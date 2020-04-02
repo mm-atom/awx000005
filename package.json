@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/awx000005",
-	"version": "1.0.202004021759",
+	"version": "1.0.202004021820",
 	"description": "页面渲染",
 	"scripts": {
 		"test": "tsc -w",
